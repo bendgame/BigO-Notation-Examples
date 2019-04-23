@@ -1,0 +1,7 @@
+#Constant Time — O(1)
+
+def get_first(data):
+    return data[0]
+if __name__ == '__main__':
+    data = [1, 2, 9, 8, 3, 4, 7, 6, 5]
+    print(get_first(data))
