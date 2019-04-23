@@ -12,3 +12,4 @@ if __name__ == '__main__':
     data = [9, 1, 7, 6, 2, 8, 5, 3, 4, 0]
     bubble_sort(data)
     print(data)
+
